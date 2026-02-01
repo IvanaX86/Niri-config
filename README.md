@@ -9,10 +9,10 @@ Simple Niri Config
 <p>mod+ctrl+shift+wasd - moves window between monitors</p>
 
 ## Control
-mod+esc     - Closes Window
-mod+t       - Opens Terminal
-mod+r       - Opens Application Runner
-mod+o       - Opens window overview
-mod+f       - Fullscreens window
-mod+shift+f - True Fullscreen
-mod+v       - Toggle Floating/Tiled
+<p>mod+esc     - Closes Window</p>
+<p>mod+t       - Opens Terminal</p>
+<p>mod+r       - Opens Application Runner</p>
+<p>mod+o       - Opens window overview</p>
+<p>mod+f       - Fullscreens window</p>
+<p>mod+shift+f - True Fullscreen</p>
+<p>mod+v       - Toggle Floating/Tiled</p>
