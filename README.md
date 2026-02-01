@@ -18,3 +18,7 @@ Simple Niri Config
 <p>mod+v       - Toggle Floating/Tiled</p>
 <p>mod++       - Make Window Larger by 10%</p>
 <p>mod+-       - Make Window Smaller by 10%</p>
+
+## Other
+<p>mod+lmb     - Grabs window and allows you to move it around with a mouse</p>
+<p>mod+rmb     - Grabs and resizes the window</p>
