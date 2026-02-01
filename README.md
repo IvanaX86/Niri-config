@@ -16,3 +16,5 @@ Simple Niri Config
 <p>mod+f       - Fullscreens window</p>
 <p>mod+shift+f - True Fullscreen</p>
 <p>mod+v       - Toggle Floating/Tiled</p>
+<p>mod++       - Make Window Larger by 10%</p>
+<p>mod+-       - Make Window Smaller by 10%</p>
