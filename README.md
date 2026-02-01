@@ -2,11 +2,11 @@
 Simple Niri Config
 
 ## Movement
-mod+wasd            - traverses windows across the same monitor
-mod+qe              - splits current window left or right vertically under the window next to it
-mod+ctrl+wasd       - moves the window
-mod+shift+wasd      - moves focus between monitors
-mod+ctrl+shift+wasd - moves window between monitors
+<p>mod+wasd            - traverses windows across the same monitor</p>
+<p>mod+qe              - splits current window left or right vertically under the window next to it</p>
+<p>mod+ctrl+wasd       - moves the window</p>
+<p>mod+shift+wasd      - moves focus between monitors</p>
+<p>mod+ctrl+shift+wasd - moves window between monitors</p>
 
 ## Control
 mod+esc     - Closes Window
